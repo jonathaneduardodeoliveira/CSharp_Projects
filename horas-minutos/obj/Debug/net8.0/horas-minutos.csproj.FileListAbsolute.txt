@@ -1,0 +1,14 @@
+D:\c #\horas-minutos\bin\Debug\net8.0\horas-minutos.exe
+D:\c #\horas-minutos\bin\Debug\net8.0\horas-minutos.deps.json
+D:\c #\horas-minutos\bin\Debug\net8.0\horas-minutos.runtimeconfig.json
+D:\c #\horas-minutos\bin\Debug\net8.0\horas-minutos.dll
+D:\c #\horas-minutos\bin\Debug\net8.0\horas-minutos.pdb
+D:\c #\horas-minutos\obj\Debug\net8.0\horas-minutos.GeneratedMSBuildEditorConfig.editorconfig
+D:\c #\horas-minutos\obj\Debug\net8.0\horas-minutos.AssemblyInfoInputs.cache
+D:\c #\horas-minutos\obj\Debug\net8.0\horas-minutos.AssemblyInfo.cs
+D:\c #\horas-minutos\obj\Debug\net8.0\horas-minutos.csproj.CoreCompileInputs.cache
+D:\c #\horas-minutos\obj\Debug\net8.0\horas-minutos.dll
+D:\c #\horas-minutos\obj\Debug\net8.0\refint\horas-minutos.dll
+D:\c #\horas-minutos\obj\Debug\net8.0\horas-minutos.pdb
+D:\c #\horas-minutos\obj\Debug\net8.0\horas-minutos.genruntimeconfig.cache
+D:\c #\horas-minutos\obj\Debug\net8.0\ref\horas-minutos.dll

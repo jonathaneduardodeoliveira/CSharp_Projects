@@ -1,0 +1,53 @@
+Para compilar um programa C# usando o `csc` (o compilador de C# da Microsoft) e executá-lo no prompt de comando (cmd), siga estes passos:
+1. 
+Compilar o programa C#:
+No prompt de comando, navegue até o diretório onde está o seu arquivo de código-fonte C#. Suponha que o nome do seu arquivo seja `MeuPrograma.cs`. Use o seguinte comando para compilar:
+csc MeuPrograma.cs
+Isso irá compilar o seu programa e gerar um arquivo executável `MeuPrograma.exe`.
+2. 
+Executar o programa compilado:
+Depois de compilar com sucesso, você pode executar o programa usando o seguinte comando:
+MeuPrograma.exe
+Isso executará o arquivo `MeuPrograma.exe`.
+Lembre-se de que, para o segundo passo, você precisa estar no mesmo diretório em que o arquivo executável `MeuPrograma.exe` foi gerado ou especificar o caminho completo para o executável se estiver em um diretório diferente.
+Parece que você está tendo problemas porque o prompt de comando não está reconhecendo o comando `csc`, que é o compilador de C#. Isso pode acontecer se o caminho para o compilador não estiver configurado corretamente no seu sistema.
+Para resolver esse problema, você pode seguir estas etapas:
+1. 
+Verifique se o compilador de C# está instalado: Certifique-se de que você tenha o SDK do .NET Framework instalado em seu sistema. Você pode baixá-lo e instalá-lo a partir do site oficial da Microsoft: https://dotnet.microsoft.com/download
+2. 
+Adicione o diretório do compilador ao PATH do sistema:
+• Procure pelo diretório onde o compilador `csc.exe` está localizado. Normalmente, este arquivo está em algo como `C:\Windows\Microsoft.NET\Framework\vX.X.XXX`, onde `X.X.XXX` é a versão do .NET Framework instalada no seu sistema.
+• Depois de encontrar o diretório, copie o caminho completo.
+• Abra o "Painel de Controle" do Windows e vá para "Sistema e Segurança" > "Sistema" > "Configurações avançadas do sistema" > "Variáveis de ambiente".
+• Na seção "Variáveis do sistema", encontre a variável chamada "Path" e clique em "Editar...".
+• Na janela "Editar variável de ambiente", clique em "Novo" e cole o caminho que você copiou anteriormente.
+• Clique em "OK" em todas as janelas para salvar suas alterações.
+3. 
+Reabra o prompt de comando: Após adicionar o diretório do compilador ao PATH do sistema, feche e reabra o prompt de comando para que as alterações entrem em vigor.
+Depois de seguir essas etapas, tente compilar novamente seu programa C# usando o comando `csc` no prompt de comando. Espero que isso resolva o problema!
+Sim, você pode configurar o PATH do compilador de C# através da linha de comando usando o utilitário `setx`. Aqui está como você pode fazer isso:
+1. 
+Descubra o caminho para o compilador de C#:
+Primeiro, você precisa descobrir onde o compilador `csc.exe` está localizado em seu sistema. Normalmente, está em um diretório semelhante a `C:\Windows\Microsoft.NET\Framework\vX.X.XXX`, onde `X.X.XXX` é a versão do .NET Framework instalada.
+2. 
+Configure o PATH usando o comando setx:
+Abra o prompt de comando e execute o seguinte comando, substituindo `<caminho>` pelo caminho completo para o diretório que contém o compilador `csc.exe`:
+setx PATH "%PATH%;<caminho>"
+Por exemplo, se o compilador estiver em `C:\Windows\Microsoft.NET\Framework\vX.X.XXX`, você pode usar o seguinte comando:
+setx PATH "%PATH%;C:\Windows\Microsoft.NET\Framework\vX.X.XXX"
+Isso adicionará o diretório do compilador ao PATH do sistema.
+3. 
+Feche e reabra o prompt de comando:
+Para que as alterações entrem em vigor, feche todas as instâncias do prompt de comando e abra um novo.
+Após seguir esses passos, você deve conseguir usar o comando `csc` para compilar seus programas C# diretamente no prompt de comando, sem precisar especificar o caminho completo para o compilador.
+Compilar o programa C#:
+csc loop.cs
+Isso irá compilar o programa e gerar um arquivo executável `loop.exe`.
+2. 
+Executar o programa compilado:
+loop.exe
+Isso executará o arquivo `loop.exe`.
+Lembre-se de que você precisa estar no mesmo diretório em que o arquivo executável `loop.exe` foi gerado ou especificar o caminho completo para o executável se estiver em um diretório diferente.
+ 
+ 
+ 

@@ -1,0 +1,17 @@
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\obj\Debug\net8.0\SeuSaldoDoDiaEmDolar.GeneratedMSBuildEditorConfig.editorconfig
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\obj\Debug\net8.0\SeuSaldoDoDiaEmDolar.AssemblyInfoInputs.cache
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\obj\Debug\net8.0\SeuSaldoDoDiaEmDolar.AssemblyInfo.cs
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\obj\Debug\net8.0\SeuSaldoDoDiaEmDolar.csproj.CoreCompileInputs.cache
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\bin\Debug\net8.0\SeuSaldoDoDiaEmDolar.exe
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\bin\Debug\net8.0\SeuSaldoDoDiaEmDolar.deps.json
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\bin\Debug\net8.0\SeuSaldoDoDiaEmDolar.runtimeconfig.json
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\bin\Debug\net8.0\SeuSaldoDoDiaEmDolar.dll
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\bin\Debug\net8.0\SeuSaldoDoDiaEmDolar.pdb
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\obj\Debug\net8.0\SeuSaldoDoDiaEmDolar.csproj.AssemblyReference.cache
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\obj\Debug\net8.0\SeuSaldo.25D165C1.Up2Date
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\obj\Debug\net8.0\SeuSaldoDoDiaEmDolar.dll
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\obj\Debug\net8.0\refint\SeuSaldoDoDiaEmDolar.dll
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\obj\Debug\net8.0\SeuSaldoDoDiaEmDolar.pdb
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\obj\Debug\net8.0\SeuSaldoDoDiaEmDolar.genruntimeconfig.cache
+D:\compilados\c #\SeuSaldoDoDiaEmDolar\obj\Debug\net8.0\ref\SeuSaldoDoDiaEmDolar.dll

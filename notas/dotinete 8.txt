@@ -1,0 +1,1 @@
+setx PATH "%PATH%;C:\Windows\Microsoft.NET\Framework\vX.X.XXX"

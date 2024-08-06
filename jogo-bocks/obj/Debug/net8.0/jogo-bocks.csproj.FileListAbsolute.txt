@@ -1,0 +1,14 @@
+D:\compilados\c #\jogo-bocks\bin\Debug\net8.0\jogo-bocks.exe
+D:\compilados\c #\jogo-bocks\bin\Debug\net8.0\jogo-bocks.deps.json
+D:\compilados\c #\jogo-bocks\bin\Debug\net8.0\jogo-bocks.runtimeconfig.json
+D:\compilados\c #\jogo-bocks\bin\Debug\net8.0\jogo-bocks.dll
+D:\compilados\c #\jogo-bocks\bin\Debug\net8.0\jogo-bocks.pdb
+D:\compilados\c #\jogo-bocks\obj\Debug\net8.0\jogo-bocks.GeneratedMSBuildEditorConfig.editorconfig
+D:\compilados\c #\jogo-bocks\obj\Debug\net8.0\jogo-bocks.AssemblyInfoInputs.cache
+D:\compilados\c #\jogo-bocks\obj\Debug\net8.0\jogo-bocks.AssemblyInfo.cs
+D:\compilados\c #\jogo-bocks\obj\Debug\net8.0\jogo-bocks.csproj.CoreCompileInputs.cache
+D:\compilados\c #\jogo-bocks\obj\Debug\net8.0\jogo-bocks.dll
+D:\compilados\c #\jogo-bocks\obj\Debug\net8.0\refint\jogo-bocks.dll
+D:\compilados\c #\jogo-bocks\obj\Debug\net8.0\jogo-bocks.pdb
+D:\compilados\c #\jogo-bocks\obj\Debug\net8.0\jogo-bocks.genruntimeconfig.cache
+D:\compilados\c #\jogo-bocks\obj\Debug\net8.0\ref\jogo-bocks.dll

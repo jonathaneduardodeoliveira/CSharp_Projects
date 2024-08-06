@@ -1,0 +1,14 @@
+D:\c #\meu-cadastro\obj\Debug\net8.0\meu-cadastro.GeneratedMSBuildEditorConfig.editorconfig
+D:\c #\meu-cadastro\obj\Debug\net8.0\meu-cadastro.AssemblyInfoInputs.cache
+D:\c #\meu-cadastro\obj\Debug\net8.0\meu-cadastro.AssemblyInfo.cs
+D:\c #\meu-cadastro\obj\Debug\net8.0\meu-cadastro.csproj.CoreCompileInputs.cache
+D:\c #\meu-cadastro\bin\Debug\net8.0\meu-cadastro.exe
+D:\c #\meu-cadastro\bin\Debug\net8.0\meu-cadastro.deps.json
+D:\c #\meu-cadastro\bin\Debug\net8.0\meu-cadastro.runtimeconfig.json
+D:\c #\meu-cadastro\bin\Debug\net8.0\meu-cadastro.dll
+D:\c #\meu-cadastro\bin\Debug\net8.0\meu-cadastro.pdb
+D:\c #\meu-cadastro\obj\Debug\net8.0\meu-cadastro.dll
+D:\c #\meu-cadastro\obj\Debug\net8.0\refint\meu-cadastro.dll
+D:\c #\meu-cadastro\obj\Debug\net8.0\meu-cadastro.pdb
+D:\c #\meu-cadastro\obj\Debug\net8.0\meu-cadastro.genruntimeconfig.cache
+D:\c #\meu-cadastro\obj\Debug\net8.0\ref\meu-cadastro.dll

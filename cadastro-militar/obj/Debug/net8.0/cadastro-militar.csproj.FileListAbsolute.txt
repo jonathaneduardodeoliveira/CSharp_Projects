@@ -1,0 +1,14 @@
+D:\c #\cadastro-militar\obj\Debug\net8.0\cadastro-militar.GeneratedMSBuildEditorConfig.editorconfig
+D:\c #\cadastro-militar\obj\Debug\net8.0\cadastro-militar.AssemblyInfoInputs.cache
+D:\c #\cadastro-militar\obj\Debug\net8.0\cadastro-militar.AssemblyInfo.cs
+D:\c #\cadastro-militar\obj\Debug\net8.0\cadastro-militar.csproj.CoreCompileInputs.cache
+D:\c #\cadastro-militar\bin\Debug\net8.0\cadastro-militar.exe
+D:\c #\cadastro-militar\bin\Debug\net8.0\cadastro-militar.deps.json
+D:\c #\cadastro-militar\bin\Debug\net8.0\cadastro-militar.runtimeconfig.json
+D:\c #\cadastro-militar\bin\Debug\net8.0\cadastro-militar.dll
+D:\c #\cadastro-militar\bin\Debug\net8.0\cadastro-militar.pdb
+D:\c #\cadastro-militar\obj\Debug\net8.0\cadastro-militar.dll
+D:\c #\cadastro-militar\obj\Debug\net8.0\refint\cadastro-militar.dll
+D:\c #\cadastro-militar\obj\Debug\net8.0\cadastro-militar.pdb
+D:\c #\cadastro-militar\obj\Debug\net8.0\cadastro-militar.genruntimeconfig.cache
+D:\c #\cadastro-militar\obj\Debug\net8.0\ref\cadastro-militar.dll

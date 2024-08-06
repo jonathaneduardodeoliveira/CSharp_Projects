@@ -1,0 +1,14 @@
+D:\compilados\c #\adivinhe-si-puder\bin\Debug\net8.0\adivinhe-si-puder.exe
+D:\compilados\c #\adivinhe-si-puder\bin\Debug\net8.0\adivinhe-si-puder.deps.json
+D:\compilados\c #\adivinhe-si-puder\bin\Debug\net8.0\adivinhe-si-puder.runtimeconfig.json
+D:\compilados\c #\adivinhe-si-puder\bin\Debug\net8.0\adivinhe-si-puder.dll
+D:\compilados\c #\adivinhe-si-puder\bin\Debug\net8.0\adivinhe-si-puder.pdb
+D:\compilados\c #\adivinhe-si-puder\obj\Debug\net8.0\adivinhe-si-puder.GeneratedMSBuildEditorConfig.editorconfig
+D:\compilados\c #\adivinhe-si-puder\obj\Debug\net8.0\adivinhe-si-puder.AssemblyInfoInputs.cache
+D:\compilados\c #\adivinhe-si-puder\obj\Debug\net8.0\adivinhe-si-puder.AssemblyInfo.cs
+D:\compilados\c #\adivinhe-si-puder\obj\Debug\net8.0\adivinhe-si-puder.csproj.CoreCompileInputs.cache
+D:\compilados\c #\adivinhe-si-puder\obj\Debug\net8.0\adivinhe-si-puder.dll
+D:\compilados\c #\adivinhe-si-puder\obj\Debug\net8.0\refint\adivinhe-si-puder.dll
+D:\compilados\c #\adivinhe-si-puder\obj\Debug\net8.0\adivinhe-si-puder.pdb
+D:\compilados\c #\adivinhe-si-puder\obj\Debug\net8.0\adivinhe-si-puder.genruntimeconfig.cache
+D:\compilados\c #\adivinhe-si-puder\obj\Debug\net8.0\ref\adivinhe-si-puder.dll

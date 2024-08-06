@@ -1,0 +1,14 @@
+D:\c #\media\obj\Debug\net8.0\media.GeneratedMSBuildEditorConfig.editorconfig
+D:\c #\media\obj\Debug\net8.0\media.AssemblyInfoInputs.cache
+D:\c #\media\obj\Debug\net8.0\media.AssemblyInfo.cs
+D:\c #\media\obj\Debug\net8.0\media.csproj.CoreCompileInputs.cache
+D:\c #\media\bin\Debug\net8.0\media.exe
+D:\c #\media\bin\Debug\net8.0\media.deps.json
+D:\c #\media\bin\Debug\net8.0\media.runtimeconfig.json
+D:\c #\media\bin\Debug\net8.0\media.dll
+D:\c #\media\bin\Debug\net8.0\media.pdb
+D:\c #\media\obj\Debug\net8.0\media.dll
+D:\c #\media\obj\Debug\net8.0\refint\media.dll
+D:\c #\media\obj\Debug\net8.0\media.pdb
+D:\c #\media\obj\Debug\net8.0\media.genruntimeconfig.cache
+D:\c #\media\obj\Debug\net8.0\ref\media.dll

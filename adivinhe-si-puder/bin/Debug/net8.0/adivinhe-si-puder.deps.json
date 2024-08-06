@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "adivinhe-si-puder/1.0.0": {
+        "runtime": {
+          "adivinhe-si-puder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "adivinhe-si-puder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

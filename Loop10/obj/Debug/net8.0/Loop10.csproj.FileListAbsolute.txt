@@ -1,0 +1,14 @@
+D:\c #\Loop10\bin\Debug\net8.0\Loop10.exe
+D:\c #\Loop10\bin\Debug\net8.0\Loop10.deps.json
+D:\c #\Loop10\bin\Debug\net8.0\Loop10.runtimeconfig.json
+D:\c #\Loop10\bin\Debug\net8.0\Loop10.dll
+D:\c #\Loop10\bin\Debug\net8.0\Loop10.pdb
+D:\c #\Loop10\obj\Debug\net8.0\Loop10.GeneratedMSBuildEditorConfig.editorconfig
+D:\c #\Loop10\obj\Debug\net8.0\Loop10.AssemblyInfoInputs.cache
+D:\c #\Loop10\obj\Debug\net8.0\Loop10.AssemblyInfo.cs
+D:\c #\Loop10\obj\Debug\net8.0\Loop10.csproj.CoreCompileInputs.cache
+D:\c #\Loop10\obj\Debug\net8.0\Loop10.dll
+D:\c #\Loop10\obj\Debug\net8.0\refint\Loop10.dll
+D:\c #\Loop10\obj\Debug\net8.0\Loop10.pdb
+D:\c #\Loop10\obj\Debug\net8.0\Loop10.genruntimeconfig.cache
+D:\c #\Loop10\obj\Debug\net8.0\ref\Loop10.dll
